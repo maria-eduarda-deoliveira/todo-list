@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Karla:wght@300&display=swap');
+
+.corpo{
+  position: absolute;
+  left: 40%;
+}
+
+.titulo{
+  font-family: Karla;
+}
+.colocar{
+  border-style: none;
+}
+.botao1{
+  position: absolute;
+  left:80%;
+  width: 50%;
+  border-style: hidden;
+  color: #698B69;
+}
+.botao2{
+  color:#698B69;
+  border-style: hidden;
+}
+.listinha{
+  font-family: Karla;
+}
